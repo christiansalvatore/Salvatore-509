@@ -8,6 +8,8 @@ This is a public dataset to be used as a benchmark in the field of automatic cla
 
 Using this information, data of patients can be downloaded from the ADNI platform, and used in a 20-fold nested cross-validation, thus obtaining results that can be easily compared to previously published studies.
 
+Patients
+
 
 ### Previous literature
 
