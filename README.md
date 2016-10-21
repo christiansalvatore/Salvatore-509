@@ -12,7 +12,10 @@ Using this information, data of patients can be downloaded from the ADNI platfor
 This dataset consists of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162 CN. Fixed splitting indexes are provided for the following binary comparisons: AD vs CN, MCIc vs CN, MCIc vs MCInc. 
 
 ### Previous literature
+This dataset was first used in its original form in a paper by Cuingnet et al. (Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 2011), where validation was performed with half-splitting into training and testing subsets and leave-one-out in the training subset for validation.
 
-Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported. 
+The actual form of the database (20-fold nested cross-validation) was first used in a paper by Salvatore et al. (Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 2015).
+
+In this (page)[ff] Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported. 
 
 ### Original dataset
