@@ -16,6 +16,7 @@ This dataset was first used in its original form in a paper by Cuingnet et al. (
 
 The actual form of the database (20-fold nested cross-validation) was first used in a paper by Salvatore et al. (Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 2015).
 
-In this (page)[ff] Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported when provided. Results below chance (50%) are not reported. 
+In this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Salvatore-509), up-to-date classification performance on this dataset are reported. Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported (when provided).
 
-### Original dataset
+### Citing
+>Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 9.
