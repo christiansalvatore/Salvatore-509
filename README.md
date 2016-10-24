@@ -1,3 +1,5 @@
+update 2016.10.24: the dataset will be uploaded in the next few days
+
 # Salvatore-509
 This is a public dataset to be used as a benchmark in the field of automatic classification of Alzheimer's Disease.
 
