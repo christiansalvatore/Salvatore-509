@@ -7,6 +7,7 @@ For each comparison, the table has the following structure (each patient corresp
 <br><br>
 For the following comparisons, we have:
 * CN vs AD
+
 Label for CN = 0, label for AD = 1
 * CN vs MCIc
 Label for CN = 0, label for MCIc = 1
