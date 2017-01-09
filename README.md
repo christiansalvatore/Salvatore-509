@@ -1,4 +1,4 @@
-update 2017.01.09: dataset uploaded <br>
+update 2017.01.09: dataset uploaded | <a href="mailto:christian.salvatore.ibfm.cnr.it">contact me</a> if you need direct access to the image dataset <br>
 update 2016.11.21: the dataset will be uploaded in the next days
 
 # Salvatore-509
