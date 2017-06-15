@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/71118017.svg)](https://zenodo.org/badge/latestdoi/71118017)
-
 update 2017.01.09: dataset uploaded | <a href="mailto:christian.salvatore.ibfm.cnr.it">contact me</a> if you need direct access to the image dataset <br>
 update 2016.11.21: the dataset will be uploaded in the next days
 
@@ -26,6 +24,7 @@ On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer
 
 ### Citing
 >Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 9.
+[![DOI](https://zenodo.org/badge/71118017.svg)](https://zenodo.org/badge/latestdoi/71118017)
 
 ### ADNI policy
 ADNI data cannot be publicly shared by private users. It was not possible to directly upload data in this repository. However, feel free to <a href="mailto:christian.salvatore.ibfm.cnr.it">contact me</a> if you need more information about how to access data or about data used in the original paper by Salvatore et al.
