@@ -24,6 +24,7 @@ On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer
 
 ### Citing
 >Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 9.
+
 [![DOI](https://zenodo.org/badge/71118017.svg)](https://zenodo.org/badge/latestdoi/71118017)
 
 ### ADNI policy
