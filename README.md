@@ -1,3 +1,4 @@
+update 2018.03.23: a new dataset -including subjects with a more stable and reliable diagnosis over a longer follow-up period- has been released | [Salvatore-200Longitudinal](https://github.com/christiansalvatore/Salvatore-200Longitudinal) - the use of this dataset is now recommended
 update 2017.01.09: dataset uploaded | <a href="mailto:christian.salvatore.ibfm.cnr.it">contact me</a> if you need direct access to the image dataset <br>
 update 2016.11.21: the dataset will be uploaded in the next days
 
