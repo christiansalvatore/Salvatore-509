@@ -30,7 +30,7 @@ On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer
 >Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in Neuroscience, 9. doi: 10.3389/fnins.2015.00307.
 
 BibTeX
->@article{Salvatore2015a,<br>
+>@article{Salvatore2015,<br>
 author = {Salvatore, C. and Cerasa, A. and Battista, P. and Gilardi, M.C. and Quattrone, A. and Castiglioni, I.},<br>
 doi = {10.3389/fnins.2015.00307},<br>
 journal = {Frontiers in Neuroscience},<br>
