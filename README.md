@@ -37,7 +37,6 @@ journal = {Frontiers in Neuroscience},<br>
 number = {SEP},<br>
 pages = {307},<br>
 title = {{Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: A machine learning approach}},<br>
-url = {http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full}, <br>
 volume = {9},<br>
 year = {2015},<br>
 }
