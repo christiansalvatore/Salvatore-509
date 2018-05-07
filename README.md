@@ -30,20 +30,17 @@ On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer
 >Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in Neuroscience, 9. doi: 10.3389/fnins.2015.00307.
 
 BibTeX
->@article{Salvatore2015a,
-
->author = {Salvatore, C. and Cerasa, A. and Battista, P. and Gilardi, M.C. and Quattrone, A. and Castiglioni, I.},
-
->doi = {10.3389/fnins.2015.00307},
-
->journal = {Frontiers in Neuroscience},
->number = {SEP},
->pages = {307},
->title = {{Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: A machine learning approach}},
->url = {http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full},
->volume = {9},
->year = {2015},
->}
+>@article{Salvatore2015a,<br>
+author = {Salvatore, C. and Cerasa, A. and Battista, P. and Gilardi, M.C. and Quattrone, A. and Castiglioni, I.},<br>
+doi = {10.3389/fnins.2015.00307},<br>
+journal = {Frontiers in Neuroscience},<br>
+number = {SEP},<br>
+pages = {307},<br>
+title = {{Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: A machine learning approach}},<br>
+url = {http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full},<br>
+volume = {9},<br>
+year = {2015},<br>
+}
 
 ### ADNI policy
 ADNI data cannot be publicly shared by private users. It was not possible to directly upload data in this repository. However, feel free to <a href="mailto:christian.salvatore@ibfm.cnr.it">contact me</a> if you need more information about how to access data or about data used in the original paper by Salvatore et al.
