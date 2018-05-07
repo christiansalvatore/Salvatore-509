@@ -21,7 +21,7 @@ This dataset consists of 509 patients, including 137 AD, 76 MCIc, 134 MCInc, 162
 ### Previous literature
 This dataset was first used in its original form in a paper by Cuingnet et al. (Automatic classification of patients with Alzheimer's disease from structural MRI: a comparison of ten methods using the ADNI database. NeuroImage, 2011), where validation was performed with half-splitting into training and testing subsets and leave-one-out in the training subset for validation.
 
-The actual configuration of the database (20-fold nested cross-validation) was first used in a paper by Salvatore et al. (Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 2015).
+The actual configuration of the database (20-fold nested cross-validation) was first used in a paper by Salvatore et al. ([Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in neuroscience, 2015](http://journal.frontiersin.org/article/10.3389/fnins.2015.00307/full)).
 
 ### State of the art
 On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Salvatore-509), up-to-date classification performance on this dataset are reported. Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported (when provided).
@@ -36,7 +36,7 @@ doi = {10.3389/fnins.2015.00307},<br>
 journal = {Frontiers in Neuroscience},<br>
 number = {SEP},<br>
 pages = {307},<br>
-title = {{Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: A machine learning approach}},<br>
+title = {{Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach}},<br>
 volume = {9},<br>
 year = {2015},<br>
 }
