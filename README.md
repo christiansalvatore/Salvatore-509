@@ -31,8 +31,11 @@ On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer
 
 BibTeX
 >@article{Salvatore2015a,
+
 >author = {Salvatore, C. and Cerasa, A. and Battista, P. and Gilardi, M.C. and Quattrone, A. and Castiglioni, I.},
+
 >doi = {10.3389/fnins.2015.00307},
+
 >journal = {Frontiers in Neuroscience},
 >number = {SEP},
 >pages = {307},
